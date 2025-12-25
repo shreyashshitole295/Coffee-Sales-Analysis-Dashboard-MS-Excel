@@ -33,7 +33,7 @@ The project uses two versions of the dataset:
 ### 🔹 Raw Dataset
 - Contains original, unprocessed sales data
 - Used as the source for data cleaning and transformation
-- File location:
+- File location: https://github.com/shreyashshitole295/Coffee-Sales-Analysis-Dashboard-MS-Excel/blob/main/Coffee%20Shop%20Sales%20Raw%20Dataset.csv
 
 
 ### 🔹 Cleaned Dataset
