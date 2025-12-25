@@ -6,6 +6,13 @@ This project focuses on analyzing coffee shop sales data to identify key busines
 
 ---
 
+## 📊 Dashboard Preview
+Below is a snapshot of the interactive Excel dashboard created for analyzing coffee shop sales performance.
+
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/4694207f-b16d-4294-afdc-4467c087d609)
+
+---
+
 ## 🎯 Objectives
 - Analyze overall sales performance and revenue trends  
 - Identify top-selling products and categories  
