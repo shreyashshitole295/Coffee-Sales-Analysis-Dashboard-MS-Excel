@@ -14,6 +14,11 @@ This project focuses on analyzing coffee shop sales data to identify key busines
 - Provide actionable insights using a visual dashboard  
 
 ---
+## 📌 Note on Dataset Files
+Due to GitHub preview limitations, large Excel files may not be viewable directly in the browser.  
+Please download the dataset files to view and explore the data locally.
+
+---
 
 ## 📂 Dataset Information
 The project uses two versions of the dataset:
