@@ -39,7 +39,7 @@ The project uses two versions of the dataset:
 ### 🔹 Cleaned Dataset
 - Cleaned and transformed version of the raw data
 - Used for analysis and dashboard creation
-- File location: 
+- File location: https://github.com/shreyashshitole295/Coffee-Sales-Analysis-Dashboard-MS-Excel/blob/main/Coffee%20Shop%20Sales%20Cleaned%20Dataset.xlsx
 
 
 ---
